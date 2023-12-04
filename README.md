@@ -1,16 +1,25 @@
-### Hi there 👋
+## Introduction
+Hello! I'm Iza Bonarowska, a passionate Full-Stack Developer with a strong foundation in Java, Spring, and JavaScript/React.
 
-<!--
-**izabonarowska/izabonarowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+### Technical Skills
+- **Languages**: Java, JavaScript
+- **Frameworks**: Spring, React
+- **Database**: SQL (PostgreSQL)
+- **Other**: HTML, CSS, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soft Skills
+- Problem-solving
+- Team collaboration
+- Adaptability
+
+## Experience
+I have worked on [mention any significant projects, internships, or experiences]. My responsibilities included [outline your contributions and roles].
+
+## Projects
+- **Project 1**: Sprout
+- **Project 2**: Pizza App  
+- **Project 3**: Pokemon Game
+
+Let's connect and build something amazing together!
