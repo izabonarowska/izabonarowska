@@ -9,7 +9,7 @@ Hello! I'm Iza Bonarowska!
 
 ## 🛠️ Skills
 
-# Technical Skills
+### Technical Skills
 
 Programming Languages:
 
