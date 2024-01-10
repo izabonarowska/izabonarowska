@@ -9,12 +9,36 @@ Hello! I'm Iza Bonarowska!
 
 ## 🛠️ Skills
 
-### Technical Skills
-- Proficient in ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) backend development, particularly using ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) framework, including Spring Boot.
-- Strong understanding of frontend technologies like ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), enabling me to create engaging user interfaces.
-- Knowledgeable in ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), and database management systems such as ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) and ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- Experience working with ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) and ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) version control system and Agile methodologies
-- I use planning tools such as: ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# Technical Skills
+
+Programming Languages:
+
+[![Programming Languages](https://skillicons.dev/icons?i=java,js&perline=2)](https://skillicons.dev)
+
+Backend Frameworks and technologies:
+
+[![Backend Frameworks and technologies](https://skillicons.dev/icons?i=spring,maven,hibernate&perline=3)](https://skillicons.dev)
+
+Frontend Frameworks and technologies:
+
+[![Frontend Frameworks and technologies](https://skillicons.dev/icons?i=html,css,react,express,nodejs&perline=5)](https://skillicons.dev)
+
+Databases:
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4)](https://skillicons.dev)
+
+Version Control:
+
+[![Version Control Tools](https://skillicons.dev/icons?i=git,github&perline=2)](https://skillicons.dev)
+
+CI/CD:
+
+[![CI/CD](https://skillicons.dev/icons?i=githubactions,docker&perline=2)](https://skillicons.dev)
+
+Other Tools:
+
+[![Other Tools](https://skillicons.dev/icons?i=postman&perline=1)](https://skillicons.dev)
+
 
 ### Soft Skills
 - Problem-solving
@@ -23,9 +47,11 @@ Hello! I'm Iza Bonarowska!
 - Adaptability
 
 ### Languages
-Polish - C2
+Polish - Native
 
 English - C1
+
+German - A2
 
 ## Now I am working on:
 
