@@ -1,5 +1,4 @@
 ### 👋Welcome to my GitHub Profile! ###
-Hello! I'm Iza Bonarowska!
 
 - 🌱 I am a Junior Full Stack Developer
 - 🧠 Currently delving into TypeScript and advanced React to expand my skill repertoire
